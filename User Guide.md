@@ -17,7 +17,7 @@
 </li>
 <li>You have to write "chmod +x script.sh" to file be executable.</li>
 <li>To execute the script: "./script.sh"</li>
-<li>Now you can application</li>
+<li>Now you can use application</li>
 </ul>
 <h2 id="license">License</h2>
 <b>License is MIT license.</b>
